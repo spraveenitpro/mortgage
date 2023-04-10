@@ -29,3 +29,5 @@ tests
 tests-examples
 playwright.congif.js
 vite.config.js
+package.json
+package-lock.json
